@@ -25,6 +25,8 @@ I build production web systems, integrations, data workflows, and automation sof
 
 A production talent/job platform covering user-facing workflows, backend services, data ingestion, search, background processing, integrations, and automated deployment.
 
+**Live site:** [flexwork.co.za](https://flexwork.co.za)
+
 **What this demonstrates:** full-stack architecture · external APIs · data normalization · queues · testing · CI/CD · cloud deployment · production operations
 
 **Status:** Live production system. Source code remains private.
@@ -33,6 +35,8 @@ A production talent/job platform covering user-facing workflows, backend service
 **Current product demo / active prototype — equipment intelligence and telematics workflows**
 
 An active prototype demonstrating equipment onboarding, installation planning, operational workflows, and simulated telemetry states while the product is being developed toward real hardware and telematics integration.
+
+**Live demo:** Not publicly linked yet.
 
 **What this demonstrates:** product UX · deterministic workflows · validation · local persistence · automated testing · technical exploration
 
