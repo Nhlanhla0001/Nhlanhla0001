@@ -31,8 +31,10 @@ A production talent/job platform covering user-facing workflows, backend service
 
 **Status:** Live production system. Source code remains private.
 
-### Blackbox Equipment
+### Blackbox Equipment → Fleezi
 **Current product demo / active prototype — equipment intelligence and telematics workflows**
+
+**Naming:** Blackbox Equipment is currently being renamed to **Fleezi**.
 
 An active prototype demonstrating equipment onboarding, installation planning, operational workflows, and simulated telemetry states while the product is being developed toward real hardware and telematics integration.
 
