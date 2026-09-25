@@ -36,7 +36,7 @@ A production talent/job platform covering user-facing workflows, backend service
 
 An active prototype demonstrating equipment onboarding, installation planning, operational workflows, and simulated telemetry states while the product is being developed toward real hardware and telematics integration.
 
-**Live demo:** Not publicly linked yet.
+**Live demo:** [blackbox-equipment.vercel.app](https://blackbox-equipment.vercel.app)
 
 **What this demonstrates:** product UX · deterministic workflows · validation · local persistence · automated testing · technical exploration
 
