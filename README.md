@@ -21,20 +21,22 @@ I build production web systems, integrations, data workflows, and automation sof
 ## Selected work
 
 ### FlexWork
-**Production full-stack platform — Laravel + React + PostgreSQL + APIs + CI/CD**
+**Production application — Laravel + React + PostgreSQL + APIs + CI/CD**
 
-A production talent/job platform spanning user-facing workflows, backend services, data ingestion, search, background processing, integrations, and deployment automation.
+A production talent/job platform covering user-facing workflows, backend services, data ingestion, search, background processing, integrations, and automated deployment.
 
-**Engineering focus:** full-stack architecture · external APIs · data normalization · queues · testing · CI/CD · production operations
+**What this demonstrates:** full-stack architecture · external APIs · data normalization · queues · testing · CI/CD · cloud deployment · production operations
+
+**Status:** Live production system. Source code remains private.
 
 ### Blackbox Equipment
-**Equipment-intelligence product demonstration — JavaScript + responsive UI + automated testing**
+**Current product demo / active prototype — equipment intelligence and telematics workflows**
 
-A responsive prototype for equipment onboarding, installation planning, simulated operational readings, and workflow validation.
+An active prototype demonstrating equipment onboarding, installation planning, operational workflows, and simulated telemetry states while the product is being developed toward real hardware and telematics integration.
 
-**Engineering focus:** product UX · deterministic workflows · validation · local persistence · automated tests · static deployment
+**What this demonstrates:** product UX · deterministic workflows · validation · local persistence · automated testing · technical exploration
 
-> Public repository presentation is being prepared with security review, documentation, and reproducible setup before release.
+**Status:** Work in progress / product demonstration. Simulated readings are clearly separated from real connected-device telemetry.
 
 ---
 
@@ -44,6 +46,7 @@ A responsive prototype for equipment onboarding, installation planning, simulate
 - business-process automation
 - AI-enabled workflows
 - production software reliability
+- connected systems and telemetry workflows
 - turning repeated operational work into reusable software
 
 ---
