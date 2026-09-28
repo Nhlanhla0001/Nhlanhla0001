@@ -1,9 +1,10 @@
 # Nhlanhla Mabena
 
-### Full-Stack Developer
-Laravel · React · Python · APIs · Automation
+### Full-Stack Software Developer
 
-I build production web systems, integrations, data workflows, and automation software.
+Laravel · React · Python · REST APIs · Automation · AI-enabled workflows
+
+I build production web systems, integrations, data workflows and automation software.
 
 **Gauteng, South Africa** · Open to South African and international opportunities
 
@@ -12,28 +13,38 @@ I build production web systems, integrations, data workflows, and automation sof
 ## Selected work
 
 ### FlexWork
-**Production application**
+**Production talent and job platform**
 
-Live talent and job platform built with Laravel, React, PostgreSQL, APIs, background jobs, search, and automated deployment.
+Full-stack platform supporting job discovery, candidate applications, employer workflows, structured application tracking, search and automation.
 
-[Live Site](https://flexwork.co.za)
+[Live site](https://flexwork.co.za)
 
-**Stack:** Laravel · React · PostgreSQL · Redis · GitHub Actions · DigitalOcean
+**Stack:** Laravel · React · Inertia.js · TypeScript · PostgreSQL · Redis · GitHub Actions · DigitalOcean
 
 **Demonstrates:** full-stack architecture · external APIs · data normalization · queues · testing · CI/CD · production operations
 
 ---
 
-### Fleezi
-**Active equipment-intelligence prototype**
+### Fleetzi
+**Equipment-intelligence and fleet-management prototype**
 
-Current product work focused on equipment onboarding, installation planning, operational workflows, and simulated telemetry states while progressing toward real hardware and telematics integration.
+Responsive prototype demonstrating equipment onboarding, installation planning, machine records, location and activity workflows, utilisation, maintenance, alerts and hire-hour review.
 
-[Live Demo](https://blackbox-equipment.vercel.app)
+[Live demo](https://blackbox-equipment.vercel.app)
 
-**Stack:** JavaScript · HTML · CSS · automated testing · Vercel
+**Stack:** HTML · CSS · JavaScript · Node.js testing · GitHub Actions · Vercel
 
-**Demonstrates:** product UX · deterministic workflows · validation · local persistence · technical exploration
+**Demonstrates:** responsive product UX · deterministic workflows · validation · local persistence · testing · deployment
+
+> The current demonstration uses example data while progressing toward real hardware and telematics integration.
+
+---
+
+## Education
+
+**Bachelor of Science Honours in Information Technology**  
+Richfield Graduate Institute of Technology · NQF Level 8 · SAQA ID 110089  
+Completed December 2024 · Qualification certificate issued 7 June 2025
 
 ---
 
@@ -55,7 +66,7 @@ Docker · Laravel Sail · GitHub Actions · CI/CD · DigitalOcean · Vercel
 
 ## Current focus
 
-API integrations · business-process automation · AI-enabled workflows · production reliability · telemetry and connected systems
+API integrations · business-process automation · AI-enabled workflows · agentic systems · production reliability · telemetry and connected systems
 
 ---
 
@@ -63,17 +74,18 @@ API integrations · business-process automation · AI-enabled workflows · produ
 
 **Problem → Workflow → Implementation → Verification → Deployment → Observation → Improvement**
 
-I use deterministic software for state, validation, persistence, calculations, scheduling, and known rules. I use AI where interpretation, extraction, research, or judgment adds value.
+I use deterministic software for state, validation, persistence, calculations, scheduling and known rules. I use AI where interpretation, extraction, research or judgment adds value.
 
 ---
 
 ## Open to
 
-Full-stack development · backend engineering · API/integration work · automation · AI-enabled software · technical collaborations
+Full-stack development · backend engineering · API/integration work · automation · AI-enabled software · technical collaboration
 
 ---
 
 ## Contact
 
 **Email:** [nhlanhlamabena16@outlook.com](mailto:nhlanhlamabena16@outlook.com)  
-**GitHub:** [Nhlanhla0001](https://github.com/Nhlanhla0001)
+**LinkedIn:** [linkedin.com/in/nhlanhla-mabena-78520a375](https://www.linkedin.com/in/nhlanhla-mabena-78520a375/)  
+**GitHub:** [github.com/Nhlanhla0001](https://github.com/Nhlanhla0001)
