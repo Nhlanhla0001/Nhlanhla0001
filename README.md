@@ -30,7 +30,7 @@ Full-stack platform supporting job discovery, candidate applications, employer w
 
 Responsive prototype demonstrating equipment onboarding, installation planning, machine records, location and activity workflows, utilisation, maintenance, alerts and hire-hour review.
 
-[Live demo](https://blackbox-equipment.vercel.app)
+[Live demo](https://blackbox-equipment.vercel.app) · [Source code](https://github.com/Nhlanhla0001/fleetzi-demo)
 
 **Stack:** HTML · CSS · JavaScript · Node.js testing · GitHub Actions · Vercel
 
