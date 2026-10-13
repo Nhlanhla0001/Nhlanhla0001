@@ -1,6 +1,6 @@
 # Nhlanhla Mabena
 
-### Full-Stack Software Developer
+### Software & Technology Professional | Full-Stack Developer
 
 Laravel · React · Python · REST APIs · Automation · AI-enabled workflows
 
@@ -36,7 +36,7 @@ Responsive prototype demonstrating equipment onboarding, installation planning, 
 
 **Demonstrates:** responsive product UX · deterministic workflows · validation · local persistence · testing · deployment
 
-> The current demonstration uses example data while progressing toward real hardware and telematics integration.
+> The demonstration uses fictional machine, customer and telemetry data with simulated movement. It does not establish live device integration, production customer accounts or production billing.
 
 ---
 
