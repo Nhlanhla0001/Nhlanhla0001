@@ -1,10 +1,12 @@
 # Nhlanhla Mabena
 
-### Software & Technology Professional | Full-Stack Developer
+### Founder & Freelance Developer | Building Products in Public
+
+I build digital products and share what I’m learning about creating, validating, and growing them.
+
+I take on full-stack development work for clients while developing independent products of my own. I share practical decisions from the work: product scope, engineering, validation, and getting useful software in front of people.
 
 Laravel · React · Python · REST APIs · Automation · AI-enabled workflows
-
-I build production web systems, integrations, data workflows and automation software.
 
 **Gauteng, South Africa** · Open to South African and international opportunities
 
