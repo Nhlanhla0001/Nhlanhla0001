@@ -1,6 +1,6 @@
 # Nhlanhla Mabena
 
-### Founder & Freelance Developer | Building Products in Public
+### Full-Stack Software Developer | Founder | Indie Hacker
 
 I build digital products and share what I’m learning about creating, validating, and growing them.
 
